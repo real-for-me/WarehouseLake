@@ -39,10 +39,14 @@
 通用部分
 1) 组件安装
    查看docx目录下的离线平台和实时平台开发手册
+   
 2)模拟数据生成
 启动dolphinscheduler:
+
 [test1@master ~]$ cd /opt/module/apache-dolphinscheduler-3.2.0-bin/bin/
+
 [test1@master ~]$./start-all.sh
+
 
 进入web界面创建项目,新增工作流,输入linux命令生成工作流
 
