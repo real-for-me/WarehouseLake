@@ -33,7 +33,7 @@
 | Hadoop           | 3.3.4  | hadoop-3.3.4.tar.gz                          |                                                              |
 | Hive             | 3.1.3  | apache-hive-3.1.3-bin.tar.gz                 | paimon-hive-connector-3.1-0.7.0-incubating.jar  <br> iceberg-hive-runtime-1.5.2.jar  <br> hudi-hadoop-mr-bundle-0.15.0.jar |
 | Maven            | 3.9.6  | apache-maven-3.9.6-bin.tar.gz                |                                                              |
-| Centos           | 8      | CentOS-8.5.2111-x86_64-dvd1.iso              |                                                              |
+| Centos           | 7      | CentOS-7-x86_64-Minimal-2009.iso             |                                                              |
 | jdk          | 8      | jdk-8u141-linux-x64.tar.gz |                                                              |
 
 通用部分
